@@ -1,5 +1,7 @@
 # TargetedUnitPopup
 
+**This mod is obsolete.** The game has been patched by the publisher so this popup now appears when hovering over an attack action.
+
 A library mod for [Phantom Brigade](https://braceyourselfgames.com/phantom-brigade/) to show a popup with the targeted unit when hovering over an attack action.
 
 It is compatible with game version **1.1.2-b5993** (Epic/Steam).
